@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+
+.text-1{
+    color: blueviolet;
+}
+
+.text-2{
+    color: blue;
+    font-size: 25px;
+}
+
+.text-3 p {
+   height: 25px;
+    background-color: blueviolet;
+}
+
+*{
+    font-weight: bold;
+}
+
+.text-4,h1{
+    color: brown;
+}
