@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body{
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+header{
+font-size: 15px;
+}
+
+p {
+  font-family: "Playfair Display",serif;
+  font-weight:700; /* bold */
+  font-style: italic; 
+  letter-spacing: 2px; /* kelime arasına bosluk koyar. */
+  line-height:20px; /* satır arasına bsoluk koyar */
+  text-decoration:underline;  /* satır altını çizer */
+  text-align: left; /* yazıyı ortalar, sollar ,sağlar */
+text-indent:8%; /* pragraf baslama boslugunu ayarlar*/
+text-transform:capitalize /* sadece kelimenin ilk harflerini büyük harfle yazar */
+}
+
+input{
+    font-size: 20px;
+    font-weight:bold;
+    color: black;
+}

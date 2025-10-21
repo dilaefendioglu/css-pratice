@@ -1,0 +1,44 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.buton{
+    background-color: palevioletred;
+    width: 120px;
+    height: 40px;
+    border-radius: 15px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+    margin-top: 25px;
+
+}
+.buton span{
+    padding: 40px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+ 
+.ayni{
+    background-color: blue;
+}
+
+.ayni span{
+    color: #000;
+}
+
+.cerceve{
+   background-color: aliceblue;
+   border: 2px solid;
+   
+}
+
+.cerceve span{
+    color: #000;
+}
+
